@@ -1,0 +1,6 @@
+output/
+vieneu_test/
+*.wav
+*.mp3
+*.log
+__pycache__/
